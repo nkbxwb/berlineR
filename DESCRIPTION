@@ -4,7 +4,8 @@ Title: Functions I forget and other cool functions
 URL: https://github.com/nkbxwb/berlineR
 Version: 0.0.0.9000
 Date: 2015-08-14
-Authors@R: person("Nathan", "Berliner", "nathan.k.berliner@gmail.com", c("aut", "cre"))
-Maintainer: Who to complain to <yourfault@somewhere.net>
+Authors@R: person("Nathan", "Berliner", email="nathan.k.berliner@gmail.com",
+  role=c("aut", "cre"))
+Maintainer: <nathan.k.berliner@gmail.com>
 Description: I plan to put interesting code here, and code that I think has hard to remember names
 License: What license is it under?
