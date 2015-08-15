@@ -9,5 +9,10 @@
 
 
 Tr=function(x){
-sum(diag(x))
+  if(is.matrix(x)==FALSE){
+  stop('Must enter a square matrix dummy')
+  }
+  if(nrow(x)==ncol(x)){
+    sum(diag(x))
+  }
 }
