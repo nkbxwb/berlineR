@@ -1,9 +1,10 @@
 Package: berlineR
 Type: Package
-Title: What the package does (short line)
+Title: Functions I forget and other cool functions
 Version: 0.0.0.9000
 Date: 2015-08-14
-Author: Who wrote it
+Authors@R: person("Nathan","Berliner",email="nathan.k.berliner@gmail.com",
+  role=c("aut","cre"))
 Maintainer: Who to complain to <yourfault@somewhere.net>
 Description: I plan to put interesting code here, and code that I think has hard to remember names
 License: What license is it under?
