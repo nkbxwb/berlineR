@@ -9,3 +9,5 @@ Authors@R: person("Nathan", "Berliner", email="nathan.k.berliner@gmail.com",
 Maintainer: <nathan.k.berliner@gmail.com>
 Description: I plan to put interesting code here, and code that I think has hard to remember names
 License: What license is it under?
+Suggests: knitr
+VignetteBuilder: knitr
