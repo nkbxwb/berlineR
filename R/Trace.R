@@ -12,6 +12,8 @@
 
 
 Tr=function(x){
+
+#hi josh, how are you
   if(is.matrix(x)==FALSE){
   stop('Must enter a square matrix dummy')
   }
